@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Moxie For Host</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start_streaming">Start Streaming</string>
+    <string name="logout_button_for_host">log out button for host</string>
+    <string name="start_live_streaming">Start Live Streaming</string>
+    <string name="display_question">Display Question</string>
+    <string name="show_prize_pool">Show Prize Pool Intermission</string>
+    <string name="continue_quiz">Continue Quiz</string>
+    <string name="showing">Showing</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="email_address_or_mobile_number">Email address or mobile number</string>
+    <string name="enter_email_or_mobile">Enter email or mobile</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="or_log_in_with">Or log in with</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="log_in">Log in</string>
+    <string name="go_live">Go Live</string>
+    <string name="end_live_stream">End Stream</string>
+    <string name="movies">Movies</string>
+    <string name="image_showing_quiz_thumbnail">image showing quiz thumbnail</string>
+    <string name="share">Share</string>
+    <string name="upcoming_quiz_shows">Upcoming quiz shows</string>
+    <string name="free_quizzes">Free quizzes</string>
+    <string name="see_all">See all</string>
+    <string name="pause_stream">Pause Stream</string>
+    <string name="resume_stream">Resume Stream</string>
+    <string name="show_pool">Show Prize Pool Intermission</string>
+    <string name="calculate_scores_and_show_leaderboard">Calculate Scores and show Leaderboard</string>
+    <string name="congratulations_nhere_are_the_winners">Congratulations!\nHere are the winners</string>
+    <string name="dummy_winner_detail">%1$s\n\$%2$.1f</string>
+    <string name="calculating_score">Calculating Score</string>
+    <string name="close_the_stream">Close the stream?</string>
+    <string name="you_can_end_the_live_nstream_or_pause_it">You can end the live\nstream or pause it</string>
+    <string name="host">Host</string>
+    <string name="enable_virtual_background">Virtual Background</string>
+    <string name="tip_before_quiz">Tip:\nPlease ensure you have a stable internet connection before commencing quiz</string>
+    <string name="we_be_nright_nback">WE BE\nRIGHT\nBACK</string>
+    <string name="percent_correct_answer">%.1f%% Participants got correct answer</string>
+    <string name="label_second">%.2f% sec</string>
+
+</resources>
